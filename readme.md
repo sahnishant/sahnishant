@@ -1,4 +1,4 @@
-👋 Hi, I’m Nishant, currently building an Accounting Software [FastBooks](https://www.linkedin.com/company/fastbooks/) which is 
+👋 Hi, I’m Nishant, currently building an Accounting Software [FastBooks](https://www.linkedin.com/company/fastbooks/)
   - Built for the Indian retailers and wholesellers in the unorganized market. 
   - Simplifies every workflow of the end user
     - by the use of the end customer's needs and integration with AI/ ML at every stage possible. 
